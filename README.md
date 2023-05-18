@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack developer who is based in Wellington NZ. Looking to grow, to learn, to see ideas become reality. I have just completed an internship at Dacreed! I'm excited to learn new tech and expand my own horizon. 
+I'm a Full Stack developer who is based in Wellington NZ. Looking to grow, to learn, to see ideas become reality. I have just completed an internship at Dacreed! Now I am excited to learn new tech and expand my own horizon. 
 
 Me and my friend have some app ideas in mind we are wanting to create! Stay tuned here for more details and updates to these projects.
 
