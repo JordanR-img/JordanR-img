@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack developer who is based in Wellington NZ. Looking to grow, to learn, to see ideas become reality. I have just completed an internship at Dacreed! Now I am excited to learn new tech and expand my own horizon. 
+I'm currently a Junior DevOps Engineer at ACC, I have big dreams and hopeful to see them come to fruition. I studied full stack development also, so I have dabbled in quite a few areas.
 
 If i'm not at my computer i'm with my wife going for a walk (or sitting on the couch) 😅 or with friends enjoying company. I could be with my church family, playing drums or playing video games.
 
